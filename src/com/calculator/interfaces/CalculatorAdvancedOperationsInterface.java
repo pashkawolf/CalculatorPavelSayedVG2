@@ -22,4 +22,8 @@ public interface CalculatorAdvancedOperationsInterface {
 	 *Method tan. Used to count tangens of value.
 	 **/
 	double tan(double firstValue);
+	/**
+	 *Method log. Used to count logaritm of value.
+	 **/
+	double log(double firstValue);
 }
